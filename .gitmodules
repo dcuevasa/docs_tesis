@@ -1,0 +1,18 @@
+[submodule "submodules/lerobot-vision-detector"]
+	path = submodules/lerobot-vision-detector
+	url = https://github.com/dcuevasa/lerobot-vision-detector.git
+[submodule "submodules/lerobot-dataset-visualizer"]
+	path = submodules/lerobot-dataset-visualizer
+	url = https://github.com/dcuevasa/lerobot-dataset-visualizer.git
+[submodule "submodules/lerobot_teleoperator_so101_ik"]
+	path = submodules/lerobot_teleoperator_so101_ik
+	url = https://github.com/SinfonIAUniandes/lerobot_teleoperator_so101_ik.git
+[submodule "submodules/lerobot_robot_so101_mujoco"]
+	path = submodules/lerobot_robot_so101_mujoco
+	url = https://github.com/SinfonIAUniandes/lerobot_robot_so101_mujoco.git
+[submodule "submodules/lerobot_teleoperator_so101_haptic"]
+	path = submodules/lerobot_teleoperator_so101_haptic
+	url = https://github.com/SinfonIAUniandes/lerobot_teleoperator_so101_haptic.git
+[submodule "submodules/lerobot_teleoperator_so101_vuer"]
+	path = submodules/lerobot_teleoperator_so101_vuer
+	url = https://github.com/SinfonIAUniandes/lerobot_teleoperator_so101_vuer.git
