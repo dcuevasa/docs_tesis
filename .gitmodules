@@ -16,3 +16,6 @@
 [submodule "submodules/lerobot_teleoperator_so101_vuer"]
 	path = submodules/lerobot_teleoperator_so101_vuer
 	url = https://github.com/SinfonIAUniandes/lerobot_teleoperator_so101_vuer.git
+[submodule "submodules/FLAG-Embodied-data"]
+	path = submodules/FLAG-Embodied-data
+	url = https://github.com/FLAGlab/FLAG-Embodied-data.git
