@@ -19,3 +19,6 @@
 [submodule "submodules/FLAG-Embodied-data"]
 	path = submodules/FLAG-Embodied-data
 	url = https://github.com/FLAGlab/FLAG-Embodied-data.git
+[submodule "submodules/lerobot_policy_modular_vla"]
+	path = submodules/lerobot_policy_modular_vla
+	url = https://github.com/dcuevasa/lerobot_policy_modular_vla.git
